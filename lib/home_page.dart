@@ -1,3 +1,4 @@
+import 'package:coffee_shop/details_page.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -229,7 +230,9 @@ class _HomePageState extends State<HomePage> {
                 ]),
                 SizedBox(height: 20.0),
                 InkWell(
-                    onTap: () {},
+                    onTap: () {
+                      Navigator.of(context).push(MaterialPageRoute(builder: (context) => DetailsPage()));
+                    },
                     child: Container(
                         height: 50.0,
                         width: 225.0,
