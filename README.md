@@ -1,16 +1,10 @@
-# coffee_shop
+# Coffee shop
 
-A new Flutter project.
+App design for a coffee shop using Flutter.
 
-## Getting Started
+## Images
+![](screenshots/coffee-shop1.png)
+![](screenshots/coffee-shop2.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Credit
+[Raja Yogan](https://www.youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ)
